@@ -1,0 +1,4 @@
+riga 1
+riga 2 da branch modifiche1
+riga 3 da branch modifiche1
+riga 5 da branch modifiche2
