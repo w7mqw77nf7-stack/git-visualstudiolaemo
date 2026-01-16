@@ -7,3 +7,4 @@ riga 2 da github
 =======
 riga nuova da github
 >>>>>>> refs/remotes/origin/main
+riga 5 da git locale
