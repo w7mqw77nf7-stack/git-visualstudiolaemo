@@ -2,4 +2,8 @@
 riga 1
 =======
 riga 2 da github
+<<<<<<< HEAD
 >>>>>>> 02dcc7b78e7ee8d1c8aa6e79f3ffa0f17c84bb95
+=======
+riga nuova da github
+>>>>>>> refs/remotes/origin/main
